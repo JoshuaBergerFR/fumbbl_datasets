@@ -19,3 +19,5 @@ datasets/v0.5/v0.5_fumbbl_data_h5.zip
 raw/*
 datasets/v0.7/*
 roster_plots/road_to_malta/*
+.Rproj.user/*
+.Rhistory
