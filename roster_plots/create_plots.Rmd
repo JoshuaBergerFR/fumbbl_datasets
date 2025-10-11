@@ -112,6 +112,12 @@ df_rosters <- df_rosters1 %>%
   filter(tournament_name != "")
 ```
 
+## Manual data cleaning for SL7
+```{r SL7-data-cleaning}
+df_rosters <- df_rosters %>% 
+  filter(!(team_id == 1237593 & position %in% c("1 part-time assistant coach", "1 temp agency cheerleader", "1 bribe")))
+  
+```
 
 ## Adding info on inducements etc
 ```{r}
