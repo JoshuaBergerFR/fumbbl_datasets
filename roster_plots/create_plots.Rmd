@@ -62,6 +62,10 @@ if(group_name == "EB25 training") {
   app_path <- "SL7_ELO-stats"
 }
 
+# Load NAF IDs for coaches provided manually (this .csv needs to be updated each time another coach needs to be added) for coaches without link between their Fumbbl's account and their NAF's account. Then bind with the other NAF's IDs
+df_manual_naf_ids <- read.csv(file = "naf_manual_ids.csv")
+df_naf_ids <- rbind(df_naf_ids, df_manual_naf_ids)
+
 df_rosters1$group_name <- group_name
 
 # Cf. bb_tournament_settings.ods
@@ -103,7 +107,9 @@ tournament_ordering <- read_ods("bb_tournament_settings.ods", sheet="tournament_
 df_rosters <- df_rosters1 %>%
   filter(position != "") %>%
   mutate(cnt = 1) %>%
-  rename(skill_name = name)
+  rename(skill_name = name) %>% 
+  # Remove coaches not in a tournament_name (probably joined a   group but didn't apply for a tournament)
+  filter(tournament_name != "")
 ```
 
 
