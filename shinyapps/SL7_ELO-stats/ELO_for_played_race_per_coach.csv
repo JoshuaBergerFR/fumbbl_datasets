@@ -1,200 +1,201 @@
-﻿,coach_name,tournament_name,roster.name,naf_id,ranking,best_ranking,X,Naf.nick,Coach.rating,Alltime.high,Year.high,Country,Naf.games.played,Win.procent,order,division
-1,historic,Super League S7 EU Bottom Swiss,Wood Elf,22667,190.42,190.42,NA,Historic,202.3,252.98,205.42,France,186 (90/39/57),58.87,501,04 â€“ EU Swiss
-2,Harpick,Super League S7 EU Bottom Swiss,Halfling,32145,184.05,184.05,NA,Harpick,223.74,223.74,223.74,France,36 (20/11/5),70.83,501,04 â€“ EU Swiss
-3,Zahiko,Super League S7 EU Bottom Swiss,Tomb Kings,13997,182.64,233.12,NA,zahiko,303.12,308.11,308.11,France,628 (323/170/135),64.97,501,04 â€“ EU Swiss
-4,Borknagar85,Super League S7 EU Bottom Swiss,Skaven,33015,179.28,179.28,NA,borknagar85,199.72,214.94,214.94,Italy,53 (18/15/20),48.11,501,04 â€“ EU Swiss
-5,EvilSmoothie,Super League S7 EU Bottom Swiss,Khorne,28783,178.24,201.08,NA,EvilSmoothie,209.34,229.9,227.12,Finland,265 (127/68/70),60.75,501,04 â€“ EU Swiss
-6,AmazingGaze,Super League S7 EU Bottom Swiss,Amazon,32634,177.24,201.08,NA,AmazingGaze,234.6,236.26,236.26,Germany,67 (33/18/16),62.69,501,04 â€“ EU Swiss
-7,jadawin91,Super League S7 EU Bottom Swiss,Chaos Chosen,28040,177.1,177.1,NA,Jadawin,208.74,218.49,218.49,France,109 (49/29/31),58.26,501,04 â€“ EU Swiss
-8,otis,Super League S7 EU Bottom Swiss,Human,16782,175.28,239.44,NA,otis,266.36,266.36,266.36,Switzerland,276 (129/73/74),59.96,501,04 â€“ EU Swiss
-9,palmtaiga,Super League S7 EU Bottom Swiss,Vampire,27077,171.68,171.68,NA,Palmtaiga,185.17,194.55,194.55,Malta,223 (74/49/100),44.17,501,04 â€“ EU Swiss
-10,xtapodias,Super League S7 EU Bottom Swiss,Skaven,28002,170.86,170.86,NA,xtapodias,195.73,198.89,198.67,Greece,86 (33/28/25),54.65,501,04 â€“ EU Swiss
-11,WoZoI,Super League S7 EU Bottom Swiss,Skaven,30779,170.54,184.62,NA,wozoi,182.93,225.7,225.7,France,168 (59/45/64),48.51,501,04 â€“ EU Swiss
-12,Yaulande,Super League S7 EU Bottom Swiss,Amazon,41268,162.52,162.52,NA,Yaulande,168.79,171.28,171.28,On a deserted island,10 (5/2/3),60,501,04 â€“ EU Swiss
-13,benito1724,Super League S7 EU Bottom Swiss,Goblin,32368,161.32,161.32,NA,benito,173.33,173.33,173.33,On a deserted island,33 (15/5/13),53.03,501,04 â€“ EU Swiss
-14,Regor,Super League S7 EU Bottom Swiss,Vampire,40935,158.86,168.89,NA,Regor,194.55,195.09,195.09,Portugal,17 (11/3/3),73.53,501,04 â€“ EU Swiss
-15,mepmuff_2,Super League S7 EU Bottom Swiss,Khorne,6123,158.28,201.72,NA,Mepmuff,214.72,234.32,228.86,Netherlands,533 (237/123/173),56,501,04 â€“ EU Swiss
-16,Mercutio,Super League S7 EU Bottom Swiss,Chaos Chosen,38452,155.51,161.03,NA,mercutio_uk,171.96,171.96,171.96,England,18 (8/5/5),58.33,501,04 â€“ EU Swiss
-17,DrClaes,Super League S7 EU Bottom Swiss,Snotling,29945,154.78,154.78,NA,drclaes,157.76,161.91,161.91,On a deserted island,22 (7/2/13),36.36,501,04 â€“ EU Swiss
-18,JuicyBee,Super League S7 EU Bottom Swiss,Chaos Chosen,22788,154.11,194.59,NA,JuicyBee,208.34,219.41,219.41,Finland,192 (70/58/64),51.56,501,04 â€“ EU Swiss
-19,Shriyke,Super League S7 EU Bottom Swiss,Dark Elf,30033,153.96,210.98,NA,shriyke,232.68,236.45,236.45,Scotland,191 (91/46/54),59.69,501,04 â€“ EU Swiss
-20,DaProfezzur,Super League S7 EU Bottom Swiss,Chaos Chosen,28975,150.59,154.52,NA,DaProfezzur,148.69,154.99,154.99,Portugal,37 (12/11/14),47.3,501,04 â€“ EU Swiss
-21,POCKUS,Super League S7 EU Bottom Swiss,Imperial Nobility,27500,150.21,150.21,NA,Pockus,134.67,158.47,140.42,Switzerland,35 (8/9/18),35.71,501,04 â€“ EU Swiss
-22,Serpe,Super League S7 EU Bottom Swiss,Amazon,35864,150.05,156.01,NA,serpe,161.48,169.2,161.48,Italy,67 (22/10/35),40.3,501,04 â€“ EU Swiss
-23,ForceFrenzy,Super League S7 EU Bottom Swiss,Chaos Chosen,35033,150.03,173.45,NA,forcefrenzy,185.38,185.38,185.38,Denmark,25 (11/7/7),58,501,04 â€“ EU Swiss
-24,Tok_Janne,Super League S7 EU Bottom Swiss,Gnome,25744,146.86,192.12,NA,tok_janne,201.15,232.32,232.32,Sweden,149 (76/32/41),61.74,501,04 â€“ EU Swiss
-25,MONGOR79,Super League S7 EU Bottom Swiss,Orc,25820,142.98,142.98,NA,MONGOR,153.27,172.4,0,Greece,50 (16/11/23),43,501,04 â€“ EU Swiss
-26,BdG,Super League S7 EU Bottom Swiss,Skaven,16603,138.03,147,NA,bdg,134.21,167.41,135.93,Switzerland,140 (42/27/71),39.64,501,04 â€“ EU Swiss
-27,nrKst,Super League S7 EU Bottom Swiss,Chaos Chosen,41269,134.75,134.75,NA,nrKst,134.89,144.57,144.57,Germany,10 (2/3/5),35,501,04 â€“ EU Swiss
-28,razmus,Super League S7 EU Bottom Swiss,Imperial Nobility,24325,NA,154.15,NA,razmus,157.46,161.83,161.67,United States of America,29 (12/4/13),48.28,501,04 â€“ EU Swiss
-29,Lort_paa_braettet,Super League S7 EU Bottom Swiss,Wood Elf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,501,04 â€“ EU Swiss
-30,Thoriin,Super League S7 EU Bottom Swiss,Nurgle,40030,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,501,04 â€“ EU Swiss
-31,MerryZ,Super League S7 EU Bottom Swiss,Chaos Chosen,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,501,04 â€“ EU Swiss
-32,madvig,Super League S7 EU Bottom Swiss,Gnome,24222,NA,192.63,NA,MadVig,260.97,260.97,260.97,Denmark,236 (123/60/53),64.83,501,04 â€“ EU Swiss
-33,baronvdw,Super League S7 EU Bottom Swiss,Dwarf,27703,NA,179.2,NA,Baronvdw,225.38,254.41,254.41,Malta,140 (76/34/30),66.43,501,04 â€“ EU Swiss
-34,Padster61,Super League S7 EU Bottom Swiss,Imperial Nobility,26810,NA,173,NA,Padster,159.97,192.56,184.7,North Ireland,397 (126/122/149),47.1,501,04 â€“ EU Swiss
-35,Mushkun,Super League S7 EU Bottom Swiss,Norse,29829,NA,162.26,NA,Snows,141.74,151.51,141.74,Portugal,26 (7/5/14),36.54,501,04 â€“ EU Swiss
-36,OwenZ51,Super League S7 EU Bottom Swiss,Black Orc,36383,NA,162.93,NA,FauxOwen,148.59,148.59,0,France,12 (5/0/7),41.67,501,04 â€“ EU Swiss
-37,PilePoil,Super League S7 EU Bottom Swiss,Slann,33458,NA,167.22,NA,pilepoil,142.95,187.71,187.71,Switzerland,93 (27/23/43),41.4,501,04 â€“ EU Swiss
-38,Ion,Super League S7 EU Bottom Swiss,Khorne,30099,NA,164.27,NA,ion,172.56,199.88,199.88,Malta,214 (70/69/75),48.83,501,04 â€“ EU Swiss
-39,elodius,Super League S7 EU Bottom Swiss,Necromantic Horror,26080,NA,165.37,NA,elodius,153.1,175.74,158.97,Belgium,75 (27/17/31),47.33,501,04 â€“ EU Swiss
-40,Widram,Super League S7 EU Bottom Swiss,Elven Union,26904,NA,167.79,NA,Widram,124.48,195.84,131.13,Wales,150 (46/36/68),42.67,501,04 â€“ EU Swiss
-41,raiksnn,Super League S7 EU Bottom Swiss,Dark Elf,30774,NA,169.48,NA,raiksnn,158.91,164.16,163.37,Germany,35 (12/8/15),45.71,501,04 â€“ EU Swiss
-42,CromFrance,Super League S7 EU Bottom Swiss,Skaven,13555,NA,174.76,NA,CromFrance,155.13,194.46,185.8,France,368 (123/98/147),46.74,501,04 â€“ EU Swiss
-43,Fatzke,Super League S7 EU Bottom Swiss,Chaos Chosen,26463,NA,142.34,NA,fatzke423,139.69,151.21,142.73,Germany,39 (11/8/20),38.46,501,04 â€“ EU Swiss
-44,SickAsEggs,Super League S7 EU Bottom Swiss,Elven Union,29300,NA,189.93,NA,SickasEggs,245.82,245.82,245.82,England,198 (90/56/52),59.6,501,04 â€“ EU Swiss
-45,Megamind,Super League S7 EU Bottom Swiss,Elven Union,23794,NA,196.16,NA,Megamind,229.51,237.74,233,United States of America,96 (60/20/16),72.92,501,04 â€“ EU Swiss
-46,galentio,Super League S7 EU Bottom Swiss,Shambling Undead,40754,NA,178.51,NA,galentio,179.86,179.86,179.86,Portugal,20 (11/6/3),70,501,04 â€“ EU Swiss
-47,Ulrik,Super League S7 EU Bottom Swiss,Dwarf,10155,NA,206.44,NA,Ulrik,235.08,250.52,250.52,Denmark,107 (48/27/32),57.48,501,04 â€“ EU Swiss
-48,Chicken23,Super League S7 EU Bottom Swiss,Imperial Nobility,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,501,04 â€“ EU Swiss
-49,straume,Super League S7 EU Championship A,Wood Elf,20685,247.22,247.22,NA,Straume,256.62,299.1,293.48,Norway,446 (241/135/70),69.17,101,00 â€“ EU Championship
-50,siggi,Super League S7 EU Championship A,Amazon,25971,211.7,251.1,NA,siggi,239.31,302.12,268.38,Switzerland,475 (288/96/91),70.74,101,00 â€“ EU Championship
-51,Thot,Super League S7 EU Championship A,Skaven,19526,166.89,209.57,NA,Thot,250.88,267.98,253.28,France,474 (269/97/108),66.98,101,00 â€“ EU Championship
-52,Budmilka,Super League S7 EU Championship A,Gnome,20320,162.68,211.82,NA,Budmilka,221.13,242.23,225.29,France,604 (255/157/192),55.22,101,00 â€“ EU Championship
-53,doclystria,Super League S7 EU Championship A,Old World Alliance,2808,NA,233.18,NA,Miko,248.09,286.2,278.99,Germany,395 (219/89/87),66.71,101,00 â€“ EU Championship
-54,JLeav,Super League S7 EU Championship A,High Elf,33751,NA,222.56,NA,jleav,278.56,290.73,290.73,United States of America,183 (130/32/21),79.78,101,00 â€“ EU Championship
-55,happygrue,Super League S7 EU Championship A,Imperial Nobility,16876,NA,199.4,NA,happygrue,210.36,211.43,210.36,United States of America,21 (15/4/2),80.95,101,00 â€“ EU Championship
-56,KFoged,Super League S7 EU Championship A,Imperial Nobility,10691,NA,278.05,NA,KFoged,247.99,291.02,277.64,England,776 (464/159/153),70.04,101,00 â€“ EU Championship
-57,Beltroniko,Super League S7 EU Championship B,Wood Elf,36563,205.31,205.31,NA,Beltroniko,236.72,240.15,240.15,Portugal,69 (45/11/13),73.19,102,00 â€“ EU Championship
-58,Bazakastine,Super League S7 EU Championship B,Imperial Nobility,29474,198.3,198.3,NA,bazakastine,254.13,273.4,257.69,United States of America,106 (71/20/15),76.42,102,00 â€“ EU Championship
-59,Junior84,Super League S7 EU Championship B,Vampire,20857,195.79,259.21,NA,Junior84,270.03,288.62,285.11,Germany,489 (268/136/85),68.71,102,00 â€“ EU Championship
-60,Tuga,Super League S7 EU Championship B,Orc,24918,193.28,205.64,NA,MarcosGrande,230,239.55,239.55,Portugal,88 (40/26/22),60.23,102,00 â€“ EU Championship
-61,Davouille,Super League S7 EU Championship B,Black Orc,21118,182.88,205.45,NA,Davouille,221.97,252.72,240.12,France,359 (180/93/86),63.09,102,00 â€“ EU Championship
-62,Grumplekins,Super League S7 EU Championship B,Human,26358,162.33,210.9,NA,grumplekins,209.18,240.63,219.61,Sweden,278 (115/84/79),56.47,102,00 â€“ EU Championship
-63,MacHurto,Super League S7 EU Championship B,Chaos Chosen,24314,NA,196.32,NA,machurto,202.94,243.94,243.94,Denmark,144 (67/40/37),60.42,102,00 â€“ EU Championship
-64,Lewdgrip,Super League S7 EU Div 1A,Chaos Renegade,21163,190.51,199.6,NA,lewdgrip,214.79,228.81,219.86,Austria,122 (64/21/37),61.07,201,01 â€“ EU Div 1
-65,Dodge22,Super League S7 EU Div 1A,Necromantic Horror,32391,189.15,189.15,NA,dodge22,211.41,222.62,222.62,England,194 (90/48/56),58.76,201,01 â€“ EU Div 1
-66,Farandole,Super League S7 EU Div 1A,Wood Elf,33363,162.56,206.59,NA,half,223.48,237.89,237.89,France,80 (46/14/20),66.25,201,01 â€“ EU Div 1
-67,Hugo21_,Super League S7 EU Div 1A,Snotling,33563,155.16,165.54,NA,Hugo21,195.98,202.37,202.37,France,67 (27/18/22),53.73,201,01 â€“ EU Div 1
-68,Edwin,Super League S7 EU Div 1A,Amazon,25301,NA,199.99,NA,Edwin,229.85,252.96,239.23,Netherlands,286 (137/68/81),59.79,201,01 â€“ EU Div 1
-69,goldengate,Super League S7 EU Div 1A,Khorne,23406,NA,178.18,NA,Goldengate,220.68,220.68,0,Ireland,108 (50/36/22),62.96,201,01 â€“ EU Div 1
-70,Tonalt,Super League S7 EU Div 1A,Chaos Chosen,7503,NA,236.6,NA,Tonalt,255.07,258.98,255.07,Finland,228 (113/74/41),65.79,201,01 â€“ EU Div 1
-71,jonno,Super League S7 EU Div 1A,Elven Union,20251,NA,195.64,NA,Jonno,223.39,229.5,229.5,Denmark,243 (89/66/88),50.21,201,01 â€“ EU Div 1
-72,Sandune,Super League S7 EU Div 1B,Wood Elf,15142,200.33,220.46,NA,Sandune,257.19,275,261.63,New Zealand,274 (161/67/46),70.99,202,01 â€“ EU Div 1
-73,Endrophil,Super League S7 EU Div 1B,Goblin,19682,174.06,196,NA,Endro,221.29,237.82,0,Germany,180 (90/36/54),60,202,01 â€“ EU Div 1
-74,helborg,Super League S7 EU Div 1B,Wood Elf,22470,168.44,259.36,NA,Helborg,258.54,319.22,275.74,France,508 (283/124/101),67.91,202,01 â€“ EU Div 1
-75,silkoun,Super League S7 EU Div 1B,Skaven,14616,157.21,222.68,NA,silkoun,237.54,283.03,256.92,France,395 (209/103/83),65.95,202,01 â€“ EU Div 1
-76,rodvil,Super League S7 EU Div 1B,Underworld Denizens,24496,156.9,176.88,NA,rodvil,185.98,205.86,198.06,Portugal,151 (56/43/52),51.32,202,01 â€“ EU Div 1
-77,outcaarst,Super League S7 EU Div 1B,High Elf,15546,144.69,190.64,NA,outcaarst,186.51,213.16,209.12,Austria,196 (85/41/70),53.83,202,01 â€“ EU Div 1
-78,cdassak,Super League S7 EU Div 1B,Elven Union,26050,NA,205.78,NA,cdassak,237.85,245.64,238.05,Greece,94 (57/26/11),74.47,202,01 â€“ EU Div 1
-79,Martoni,Super League S7 EU Div 1B,Chaos Renegade,6999,NA,204.2,NA,Martoni,188.65,224.11,0,France,223 (105/55/63),59.42,202,01 â€“ EU Div 1
-80,geggster,Super League S7 EU Div 1C,Dwarf,70,223.8,240.69,NA,Geggster,268.37,283.6,283.6,England,1166 (642/279/245),67.02,203,01 â€“ EU Div 1
-81,Rubick,Super League S7 EU Div 1C,Wood Elf,17243,210.41,210.41,NA,Rubick,220.02,245.71,245.71,Wales,531 (256/128/147),60.26,203,01 â€“ EU Div 1
-82,Bojo,Super League S7 EU Div 1C,Human,7539,208.56,219.07,NA,Lord_Bojo,221.16,248.43,222.54,Guadeloupe,702 (319/187/196),58.76,203,01 â€“ EU Div 1
-83,speedingbullet,Super League S7 EU Div 1C,Underworld Denizens,16845,204.06,206.38,NA,speedingbullet,216.59,246.46,228.18,England,264 (135/62/67),62.88,203,01 â€“ EU Div 1
-84,Bashto,Super League S7 EU Div 1C,Wood Elf,32021,197.05,229.91,NA,Bashto,249.98,271.88,271.88,England,156 (79/39/38),63.14,203,01 â€“ EU Div 1
-85,Jblackmane,Super League S7 EU Div 1C,Khorne,31370,164.52,174.03,NA,jblackmane,156.8,203.65,201.38,Netherlands,103 (40/25/38),50.97,203,01 â€“ EU Div 1
-86,Stimme,Super League S7 EU Div 1C,Chaos Renegade,17245,159.43,247.33,NA,Stimme,240.48,285.31,285.31,Germany,785 (444/192/149),68.79,203,01 â€“ EU Div 1
-87,SideshowBob,Super League S7 EU Div 1C,Imperial Nobility,30799,NA,168.54,NA,sideshowbob,170.96,174.83,174.83,Sweden,6 (3/2/1),66.67,203,01 â€“ EU Div 1
-88,Valen,Super League S7 EU Div 1D,Dwarf,1538,202.18,207.31,NA,Valen,228.05,257.73,257.73,Scotland,650 (337/118/195),60.92,204,01 â€“ EU Div 1
-89,vradipous,Super League S7 EU Div 1D,Skaven,28432,181.72,181.72,NA,Vradipous,202.59,230.26,0,Greece,84 (40/21/23),60.12,204,01 â€“ EU Div 1
-90,uncertain,Super League S7 EU Div 1D,Elven Union,13715,NA,204.21,NA,Narok,223.52,239.67,236.75,Germany,280 (130/69/81),58.75,204,01 â€“ EU Div 1
-91,Nime_l_Ancien,Super League S7 EU Div 1D,Wood Elf,17768,NA,212.75,NA,NÃ®me_l_Ancien,246.05,256.05,250.32,France,205 (97/51/57),59.76,204,01 â€“ EU Div 1
-92,Zelmor,Super League S7 EU Div 1D,Amazon,35956,NA,148.07,NA,Zelmor,149.08,154.67,0,Netherlands,18 (6/5/7),47.22,204,01 â€“ EU Div 1
-93,prodigal_son,Super League S7 EU Div 1D,Chaos Chosen,27369,NA,215.72,NA,prodigal_son,236.78,242.53,242.53,Finland,96 (43/32/21),61.46,204,01 â€“ EU Div 1
-94,Hovring,Super League S7 EU Div 1D,Chaos Chosen,34738,NA,254.04,NA,hovring,285.7,297,297,Denmark,89 (54/26/9),75.28,204,01 â€“ EU Div 1
-95,Siogun,Super League S7 EU Div 1D,Shambling Undead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,204,01 â€“ EU Div 1
-96,Oventa,Super League S7 EU Div 2A,Dwarf,9610,212.14,212.14,NA,Oventa,251.58,258.17,258.17,Germany,435 (222/105/108),63.1,301,02 â€“ EU Div 2
-97,Undress_,Super League S7 EU Div 2A,Slann,29927,204.48,204.48,NA,undress_,236.63,252.56,252.56,On a deserted island,156 (83/40/33),66.03,301,02 â€“ EU Div 2
-98,Sokratez,Super League S7 EU Div 2A,Nurgle,11501,203.33,230.8,NA,Tank,235.7,286.89,261.19,Denmark,494 (256/139/99),65.89,301,02 â€“ EU Div 2
-99,Gallo,Super League S7 EU Div 2A,High Elf,20999,192.26,198.25,NA,Gallo,236.04,252.63,252.63,Italy,358 (133/110/115),52.51,301,02 â€“ EU Div 2
-100,kosmo,Super League S7 EU Div 2A,Skaven,39313,186.04,186.04,NA,Kosmo,205.29,205.29,205.29,Switzerland,51 (19/15/17),51.96,301,02 â€“ EU Div 2
-101,HenningEksteen,Super League S7 EU Div 2A,Necromantic Horror,33351,172.02,200.65,NA,henningeksteen,244.8,254.14,254.14,Netherlands,150 (75/40/35),63.33,301,02 â€“ EU Div 2
-102,naytsyrhc,Super League S7 EU Div 2A,Vampire,27808,155.26,188.6,NA,naytsyrhc,203.89,203.89,203.89,Germany,106 (46/21/39),53.3,301,02 â€“ EU Div 2
-103,Solaris,Super League S7 EU Div 2A,Elven Union,22731,NA,174.62,NA,Solaris_7,206.23,211.81,211.81,Germany,45 (21/15/9),63.33,301,02 â€“ EU Div 2
-104,MontelGee,Super League S7 EU Div 2B,Necromantic Horror,35493,171.85,179.22,NA,montelleke,209.85,210.69,210.69,Belgium,52 (28/13/11),66.35,302,02 â€“ EU Div 2
-105,LemonheadWallenstein,Super League S7 EU Div 2B,Norse,22662,168.53,170.29,NA,Lemonhead_Wallenstein,180.59,200.72,183.69,Tonga,119 (44/34/41),51.26,302,02 â€“ EU Div 2
-106,Jelmer,Super League S7 EU Div 2B,Human,129,160.37,216.09,NA,jelmer,212.07,261.05,216.21,Netherlands,779 (370/171/238),58.47,302,02 â€“ EU Div 2
-107,il-Fieres,Super League S7 EU Div 2B,Chaos Dwarf,26579,152.79,156.53,NA,Fieres,166.02,207.88,207.88,Malta,223 (76/76/71),51.12,302,02 â€“ EU Div 2
-108,FL0,Super League S7 EU Div 2B,Khorne,30447,145.35,145.35,NA,FL0,156.3,163.32,163.32,France,94 (26/24/44),40.43,302,02 â€“ EU Div 2
-109,paperbag4,Super League S7 EU Div 2B,Orc,17898,NA,167.34,NA,paperbag4,191.67,200.25,198.38,United States of America,69 (31/8/30),50.72,302,02 â€“ EU Div 2
-110,WiIfred,Super League S7 EU Div 2B,Imperial Nobility,29172,NA,187.01,NA,Bjarke,206.34,224.46,221.13,Denmark,88 (43/21/24),60.8,302,02 â€“ EU Div 2
-111,Dynamix,Super League S7 EU Div 2B,Dark Elf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,302,02 â€“ EU Div 2
-112,tyler_swaft,Super League S7 EU Div 2C,Amazon,33323,218.42,218.42,NA,Tyler_swaft,196.09,234.26,233.97,England,107 (50/31/26),61.21,303,02 â€“ EU Div 2
-113,Leonek,Super League S7 EU Div 2C,Amazon,22375,208.63,208.63,NA,Leonek,217.41,272.05,262.79,Poland,253 (136/56/61),64.82,303,02 â€“ EU Div 2
-114,Arioso,Super League S7 EU Div 2C,Norse,18378,199.81,218.64,NA,arioso,225.73,279.17,252.88,Germany,849 (415/226/208),62.19,303,02 â€“ EU Div 2
-115,Mind_Locker,Super League S7 EU Div 2C,Human,29192,NA,194.52,NA,Mind_Locker,211.47,214.78,214.78,Greece,85 (36/28/21),58.82,303,02 â€“ EU Div 2
-116,Rib-Goaty,Super League S7 EU Div 2C,High Elf,40225,NA,160.39,NA,Rib-Goaty,165.16,167.01,167.01,Portugal,15 (7/3/5),56.67,303,02 â€“ EU Div 2
-117,Xialth,Super League S7 EU Div 2C,Necromantic Horror,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,303,02 â€“ EU Div 2
-118,LexusD,Super League S7 EU Div 2C,Chaos Chosen,30736,NA,153.07,NA,LexusD,138.61,156.15,142.24,Germany,63 (18/17/28),42.06,303,02 â€“ EU Div 2
-119,MurkyWater,Super League S7 EU Div 2C,Gnome,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,303,02 â€“ EU Div 2
-120,gumbi,Super League S7 EU Div 2D,Wood Elf,9259,191.55,192.45,NA,gumbi,175.96,231.92,221.74,Australia,188 (77/48/63),53.72,304,02 â€“ EU Div 2
-121,spoboyle,Super League S7 EU Div 2D,Amazon,22121,186.46,186.46,NA,spob,211.27,220.68,220.68,England,174 (71/42/61),52.87,304,02 â€“ EU Div 2
-122,dragonborn,Super League S7 EU Div 2D,Amazon,22580,183.36,183.36,NA,dragonborn,220.45,224.62,221.3,England,118 (50/33/35),56.36,304,02 â€“ EU Div 2
-123,Schwifty,Super League S7 EU Div 2D,Black Orc,2714,152.79,196.24,NA,Schwifty,230.89,254.6,243.17,Netherlands,716 (312/140/264),53.35,304,02 â€“ EU Div 2
-124,rayhell,Super League S7 EU Div 2D,Chaos Renegade,30281,NA,213.6,NA,rayhell,248.26,256,256,Poland,188 (97/44/47),63.3,304,02 â€“ EU Div 2
-125,PurpleChest,Super League S7 EU Div 2D,Wood Elf,24645,NA,216.66,NA,PurpleChest,258.46,284.19,277.99,England,208 (120/58/30),71.63,304,02 â€“ EU Div 2
-126,Oren,Super League S7 EU Div 2D,Human,26068,NA,191.75,NA,Oren,218.4,240.97,240.15,Poland,248 (105/58/85),54.03,304,02 â€“ EU Div 2
-127,Rhag,Super League S7 EU Div 2D,Khorne,34689,NA,180.8,NA,Rhag,191.64,191.64,191.64,Finland,73 (26/22/25),50.68,304,02 â€“ EU Div 2
-128,GreenskinPhil,Super League S7 EU Div 2E,High Elf,31674,193.39,197.52,NA,greenskinphil,240.11,252.55,252.55,England,339 (150/105/84),59.73,401,02 â€“ EU Div 2
-129,Raztout,Super League S7 EU Div 2E,Dark Elf,16824,188.64,239.05,NA,Raztout,235.57,289.64,250.27,France,437 (208/124/105),61.78,401,02 â€“ EU Div 2
-130,2GUTTA,Super League S7 EU Div 2E,Tomb Kings,24787,185.3,185.3,NA,2GUTTA,195.59,199.23,199.23,Poland,57 (24/16/17),56.14,401,02 â€“ EU Div 2
-131,brinu,Super League S7 EU Div 2E,Shambling Undead,30476,171.27,184.08,NA,Brinu,191.41,221.68,221.68,Malta,104 (43/26/35),53.85,401,02 â€“ EU Div 2
-132,thulean,Super League S7 EU Div 2E,Imperial Nobility,28239,NA,221.55,NA,thulean,261.38,292.25,292.25,England,259 (148/47/64),66.22,401,02 â€“ EU Div 2
-133,ClayInfinity,Super League S7 EU Div 2E,Imperial Nobility,8442,NA,197.94,NA,ClayInfinity,195.89,241.2,203.7,Australia,207 (101/48/58),60.39,401,02 â€“ EU Div 2
-134,Hal976,Super League S7 EU Div 2E,Human,33257,NA,147.61,NA,hal976,130.41,146.6,0,Italy,12 (0/5/7),20.83,401,02 â€“ EU Div 2
-135,cyg-Obsidian,Super League S7 EU Div 2E,Elven Union,21201,NA,230.37,NA,obsidian,222.72,279,257.84,France,442 (220/113/109),62.56,401,02 â€“ EU Div 2
-136,Rone13169,Super League S7 EU Div 2F,Amazon,24110,204.46,204.46,NA,rone,229.71,247.44,229.71,Malta,276 (132/59/85),58.51,402,02 â€“ EU Div 2
-137,fienoss,Super League S7 EU Div 2F,Dark Elf,29892,169.86,169.86,NA,fienoss,182.02,209.77,182.5,Greece,96 (34/37/25),54.69,402,02 â€“ EU Div 2
-138,Shockpulsar,Super League S7 EU Div 2F,Skaven,31447,166.68,205.34,NA,PedroR,251.47,260.77,260.77,Portugal,101 (56/23/22),66.83,402,02 â€“ EU Div 2
-139,cymob,Super League S7 EU Div 2F,Amazon,29533,157.22,205.74,NA,cymob,249.44,254.97,253.1,Norway,103 (50/25/28),60.68,402,02 â€“ EU Div 2
-140,pedro_fgomes,Super League S7 EU Div 2F,Tomb Kings,26033,149.37,179.16,NA,karnuss,168.79,205.99,179,Portugal,154 (64/38/52),53.9,402,02 â€“ EU Div 2
-141,bamfuzi,Super League S7 EU Div 2F,Gnome,29314,141.34,151.76,NA,bamfuzi,127.42,144.29,133.48,Austria,22 (4/4/14),27.27,402,02 â€“ EU Div 2
-142,Piogele,Super League S7 EU Div 2F,Vampire,27730,NA,181.95,NA,piogele,189.03,227.77,195.24,Switzerland,75 (34/12/29),53.33,402,02 â€“ EU Div 2
-143,deurbroucq,Super League S7 EU Div 2F,Orc,33209,NA,153.64,NA,deurbroucq,154.13,172.19,165.37,United States of America,25 (8/9/8),50,402,02 â€“ EU Div 2
-144,jd2rbnds,Super League S7 EU Div 2G,Chaos Chosen,32817,208.88,208.88,NA,Rupert,231.11,236.6,236.6,Poland,141 (64/40/37),59.57,403,02 â€“ EU Div 2
-145,chaoskopp,Super League S7 EU Div 2G,Vampire,31217,148.11,150.21,NA,chaoskopp,145.89,159.63,152.67,Germany,48 (15/9/24),40.63,403,02 â€“ EU Div 2
-146,Coewolf,Super League S7 EU Div 2G,Chaos Renegade,23332,NA,183.81,NA,coewolf,174.27,221.54,181.72,Czech Republic,234 (87/57/90),49.36,403,02 â€“ EU Div 2
-147,Waschik,Super League S7 EU Div 2G,Imperial Nobility,31728,NA,176.2,NA,Waschik,187.58,197.5,197.5,Czech Republic,128 (53/27/48),51.95,403,02 â€“ EU Div 2
-148,Maveho,Super League S7 EU Div 2G,Chaos Chosen,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,403,02 â€“ EU Div 2
-149,DoctorMidnight,Super League S7 EU Div 2G,Amazon,40547,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,403,02 â€“ EU Div 2
-150,Jopotzuki,Super League S7 EU Div 2G,Imperial Nobility,20783,NA,180.55,NA,jopotzuki,171.58,214.97,211.94,Finland,354 (138/87/129),51.27,403,02 â€“ EU Div 2
-151,Ironbreaker,Super League S7 EU Div 2G,Elven Union,25312,NA,199.03,NA,ironbreaker,190.53,226.09,205.09,Portugal,169 (82/39/48),60.06,403,02 â€“ EU Div 2
-152,Candlejack,Super League S7 EU Div 2H,Skaven,5844,209.03,215.21,NA,Candlejack,240.51,275.32,240.51,Germany,829 (439/150/240),62,404,02 â€“ EU Div 2
-153,Topas,Super League S7 EU Div 2H,Wood Elf,22100,205.71,205.71,NA,topas,221.11,229.76,221.11,Germany,286 (132/76/78),59.44,404,02 â€“ EU Div 2
-154,Akorus,Super League S7 EU Div 2H,Khorne,29907,164.57,164.57,NA,akorus,177.63,182.96,182.96,Germany,54 (20/15/19),50.93,404,02 â€“ EU Div 2
-155,Juiblex,Super League S7 EU Div 2H,Amazon,25515,145.33,165.9,NA,juiblex,153.89,179.46,179.46,Sweden,206 (62/50/94),42.23,404,02 â€“ EU Div 2
-156,Rijssiej,Super League S7 EU Div 2H,Imperial Nobility,11330,NA,185.46,NA,NA,NA,NA,NA,NA,NA,NA,404,02 â€“ EU Div 2
-157,BBWill,Super League S7 EU Div 2H,Chaos Chosen,31685,NA,169.35,NA,BBWill,157.28,175.33,175.33,England,45 (12/14/19),42.22,404,02 â€“ EU Div 2
-158,joeseph,Super League S7 EU Div 2H,Wood Elf,38195,NA,220.11,NA,joeseph,271.75,271.75,271.75,Wales,133 (72/38/23),68.42,404,02 â€“ EU Div 2
-159,Hiliadan,Super League S7 EU Div 2H,Dark Elf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,404,02 â€“ EU Div 2
-160,Strider84,Super League S7 EU Premier League,Wood Elf,14113,258.36,258.36,NA,strider84,260.02,268.14,261.25,Switzerland,273 (150/63/60),66.48,1,0- EU Premier League
-161,Jokaero,Super League S7 EU Premier League,Dwarf,2785,257.49,257.49,NA,Jokaero,299.62,313.06,302.79,Switzerland,649 (381/154/114),70.57,1,0- EU Premier League
-162,Purplegoo,Super League S7 EU Premier League,Skaven,11777,247.54,272.75,NA,Purplegoo,269.82,292.05,277.91,England,1104 (633/274/197),69.75,1,0- EU Premier League
-163,Baki,Super League S7 EU Premier League,Vampire,19064,237.9,237.9,NA,Baki,273.14,279.69,279.69,Germany,291 (162/70/59),67.7,1,0- EU Premier League
-164,fabienL,Super League S7 EU Premier League,Wood Elf,33562,175.54,185.08,NA,FabienL,230.28,254.63,254.63,France,64 (38/15/11),71.09,1,0- EU Premier League
-165,JB,Super League S7 EU Premier League,Human,28280,163.42,216.04,NA,jb,246.77,270.63,261.79,Ladonia,161 (90/41/30),68.63,1,0- EU Premier League
-166,LargoFL,Super League S7 EU Premier League,Skaven,28291,NA,208.28,NA,LargoFL,212.18,246.33,221.2,Germany,127 (64/31/32),62.6,1,0- EU Premier League
-167,Tripleskull,Super League S7 EU Premier League,Imperial Nobility,9524,NA,220.04,NA,Tripleskull,273.11,273.11,273.11,Denmark,443 (246/110/87),67.95,1,0- EU Premier League
-168,DarkOrk20,Super League S7 NA Bottom Swiss,Khorne,7593,170.57,183.17,NA,DarkOrk20,194.62,221.17,217.66,United States of America,570 (264/98/208),54.91,NA,NA
-169,spinball,Super League S7 NA Bottom Swiss,Khorne,4789,158.22,229.4,NA,frozenflame,293.48,308.96,308.96,United States of America,210 (139/41/30),75.95,NA,NA
-170,whigwam,Super League S7 NA Bottom Swiss,Norse,19291,155.08,223.46,NA,whigwam,241.54,268.54,245.76,United States of America,215 (128/38/49),68.37,NA,NA
-171,Sammy_the_murderer,Super League S7 NA Bottom Swiss,Dwarf,32047,NA,189.26,NA,Sammy_The_Murderer,199.71,199.71,0,United States of America,27 (16/5/6),68.52,NA,NA
-172,ThatGuyYouAre,Super League S7 NA Bottom Swiss,Norse,31249,NA,166.15,NA,zadrian,138.74,176.6,148.33,United States of America,66 (22/18/26),46.97,NA,NA
-173,Akindsir,Super League S7 NA Bottom Swiss,Black Orc,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-174,Drrek,Super League S7 NA Bottom Swiss,Imperial Nobility,39914,NA,166.65,NA,drrek,171.22,171.22,171.22,On a deserted island,6 (4/1/1),75,NA,NA
-175,T0mBSt0ne,Super League S7 NA Bottom Swiss,Elven Union,36375,NA,164.32,NA,tombstone33,143.85,171.16,171.16,United States of America,45 (17/10/18),48.89,NA,NA
-176,silkoun,Super League S7 NA Championship A,Skaven,14616,157.21,222.68,NA,silkoun,237.54,283.03,256.92,France,395 (209/103/83),65.95,1101,NA 01 â€“ Championship
-177,Grasshopper,Super League S7 NA Championship A,Human,2344,149.32,149.6,NA,Grasshopper,106.59,150,122.03,United States of America,86 (18/20/48),32.56,1101,NA 01 â€“ Championship
-178,Ranzimus,Super League S7 NA Championship A,Khorne,24874,143.48,161.92,NA,Ranzimus,169.4,174.9,174.9,United States of America,110 (34/34/42),46.36,1101,NA 01 â€“ Championship
-179,TheRedoubt,Super League S7 NA Championship A,Imperial Nobility,37895,NA,169.01,NA,theredoubt,182.84,191.55,191.55,On a deserted island,24 (14/3/7),64.58,1101,NA 01 â€“ Championship
-180,ajaxtheriot,Super League S7 NA Championship A,Snotling,39059,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1101,NA 01 â€“ Championship
-181,FaMedKing,Super League S7 NA Championship A,Shambling Undead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1101,NA 01 â€“ Championship
-182,shiratokai,Super League S7 NA Championship A,Imperial Nobility,32539,NA,201.71,NA,shiratokai,237.51,259.22,259.22,United States of America,102 (63/18/21),70.59,1101,NA 01 â€“ Championship
-183,zootsuitjeff,Super League S7 NA Championship A,Old World Alliance,15338,NA,176.56,NA,zootsuitjeff,208.19,223.61,208.19,United States of America,308 (134/73/101),55.36,1101,NA 01 â€“ Championship
-184,paulc899,Super League S7 NA Championship B,Dwarf,6654,179.82,179.82,NA,Paul,169.72,187.56,175.01,Canada,72 (36/11/25),57.64,1102,NA 01 â€“ Championship
-185,Jogrenaught,Super League S7 NA Championship B,Khorne,22460,178.04,208.33,NA,Jogrenaut,218.79,244.15,221.87,United States of America,326 (172/77/77),64.57,1102,NA 01 â€“ Championship
-186,Lonewolfjackson,Super League S7 NA Championship B,Norse,30536,170.04,203.71,NA,lonewolfjackson,235.16,261.65,261.65,United States of America,182 (112/38/32),71.98,1102,NA 01 â€“ Championship
-187,Runbad,Super League S7 NA Championship B,High Elf,33324,167.4,226.96,NA,runbad,252.95,260.47,260.47,Canada,204 (105/48/51),63.24,1102,NA 01 â€“ Championship
-188,Seamoose,Super League S7 NA Championship B,Old World Alliance,18753,167.05,168.29,NA,seamoose,198.58,205.84,205.84,United States of America,116 (51/25/40),54.74,1102,NA 01 â€“ Championship
-189,jjtew,Super League S7 NA Championship B,Khorne,19719,157.46,183.47,NA,jj2,241.2,241.2,241.2,United States of America,236 (123/45/68),61.65,1102,NA 01 â€“ Championship
-190,HouseBlackfyre,Super League S7 NA Championship B,Skaven,28534,144.08,186.11,NA,houseblackfyre,210.72,231.26,222.74,United States of America,363 (176/88/99),60.61,1102,NA 01 â€“ Championship
-191,Dirtygit,Super League S7 NA Championship B,Elven Union,19152,NA,220.31,NA,Bastich,218.27,262.16,226.14,Canada,150 (87/36/27),70,1102,NA 01 â€“ Championship
-192,Grither,Super League S7 NA Premier League,Nurgle,10904,208.61,253.71,NA,Grither,266.57,301.3,266.57,United States of America,700 (471/121/108),75.93,1001,NA 0 â€“ Premier League
-193,warpstone,Super League S7 NA Premier League,Skaven,13205,203.89,235.8,NA,Warpstone,243.55,276.46,254.58,Canada,152 (95/32/25),73.03,1001,NA 0 â€“ Premier League
-194,Xtreme,Super League S7 NA Premier League,Dwarf,1315,187.5,187.5,NA,Xtreme,210.55,224.69,224.69,United States of America,516 (248/117/151),59.4,1001,NA 0 â€“ Premier League
-195,Xanzian,Super League S7 NA Premier League,Black Orc,6193,169.88,200.01,NA,szrlm,211.87,225.34,225.34,United States of America,478 (193/87/198),49.48,1001,NA 0 â€“ Premier League
-196,paperbag4,Super League S7 NA Premier League,Wood Elf,17898,167.34,167.34,NA,paperbag4,191.67,200.25,198.38,United States of America,69 (31/8/30),50.72,1001,NA 0 â€“ Premier League
-197,trefenwyd,Super League S7 NA Premier League,Chaos Chosen,25645,156.07,194.56,NA,Trefenwyd,241.56,258.54,245.18,United States of America,208 (127/49/32),72.84,1001,NA 0 â€“ Premier League
-198,JLeav,Super League S7 NA Premier League,Tomb Kings,33751,NA,222.56,NA,jleav,278.56,290.73,290.73,United States of America,183 (130/32/21),79.78,1001,NA 0 â€“ Premier League
-199,happygrue,Super League S7 NA Premier League,Imperial Nobility,16876,NA,199.4,NA,happygrue,210.36,211.43,210.36,United States of America,21 (15/4/2),80.95,1001,NA 0 â€“ Premier League
+"","coach_name","tournament_name","roster.name","naf_id","ranking","best_ranking","X","Naf.nick","Coach.rating","Alltime.high","Year.high","Country","Naf.games.played","Win.procent","order","division"
+"1","historic","Super League S7 EU Bottom Swiss","Wood Elf",22667,190.42,190.42,NA,"Historic",184.71,252.98,206.08,"France","196 (92/42/62)",57.65,501,"04 – EU Swiss"
+"2","Harpick","Super League S7 EU Bottom Swiss","Halfling",32145,184.05,184.05,NA,"Harpick",223.74,223.74,223.74,"France","36 (20/11/5)",70.83,501,"04 – EU Swiss"
+"3","Zahiko","Super League S7 EU Bottom Swiss","Tomb Kings",13997,182.64,233.12,NA,"zahiko",303.12,308.1,308.1,"France","628 (323/170/135)",64.97,501,"04 – EU Swiss"
+"4","Borknagar85","Super League S7 EU Bottom Swiss","Skaven",33015,179.28,179.28,NA,"borknagar85",199.72,214.94,214.94,"Italy","53 (18/15/20)",48.11,501,"04 – EU Swiss"
+"5","EvilSmoothie","Super League S7 EU Bottom Swiss","Khorne",28783,178.24,201.08,NA,"EvilSmoothie",212.86,229.9,227.12,"Finland","269 (129/70/70)",60.97,501,"04 – EU Swiss"
+"6","AmazingGaze","Super League S7 EU Bottom Swiss","Amazon",32634,177.24,201.08,NA,"AmazingGaze",234.6,236.26,236.26,"Germany","67 (33/18/16)",62.69,501,"04 – EU Swiss"
+"7","jadawin91","Super League S7 EU Bottom Swiss","Chaos Chosen",28040,177.1,177.1,NA,"Jadawin",214.48,224.89,224.89,"France","114 (52/31/31)",59.21,501,"04 – EU Swiss"
+"8","otis","Super League S7 EU Bottom Swiss","Human",16782,175.28,239.44,NA,"otis",259.96,266.36,266.36,"Switzerland","280 (131/73/76)",59.82,501,"04 – EU Swiss"
+"9","palmtaiga","Super League S7 EU Bottom Swiss","Vampire",27077,171.68,171.68,NA,"Palmtaiga",183.04,194.55,194.55,"Malta","227 (76/49/102)",44.27,501,"04 – EU Swiss"
+"10","xtapodias","Super League S7 EU Bottom Swiss","Skaven",28002,170.86,170.86,NA,"xtapodias",195.73,198.89,198.67,"Greece","86 (33/28/25)",54.65,501,"04 – EU Swiss"
+"11","WoZoI","Super League S7 EU Bottom Swiss","Skaven",30779,170.54,184.62,NA,"wozoi",182.91,225.7,225.7,"France","168 (59/45/64)",48.51,501,"04 – EU Swiss"
+"12","Yaulande","Super League S7 EU Bottom Swiss","Amazon",41268,162.52,162.52,NA,"Yaulande",171.66,172.47,172.47,"On a deserted island","16 (6/6/4)",56.25,501,"04 – EU Swiss"
+"13","benito1724","Super League S7 EU Bottom Swiss","Goblin",32368,161.32,161.32,NA,"benito",181.33,181.33,181.33,"On a deserted island","37 (18/5/14)",55.41,501,"04 – EU Swiss"
+"14","Regor","Super League S7 EU Bottom Swiss","Vampire",40935,158.86,168.89,NA,"Regor",200.75,200.75,200.75,"Portugal","20 (13/4/3)",75,501,"04 – EU Swiss"
+"15","mepmuff_2","Super League S7 EU Bottom Swiss","Khorne",6123,158.28,201.72,NA,"Mepmuff",214.72,234.31,228.85,"Netherlands","533 (237/123/173)",56,501,"04 – EU Swiss"
+"16","Mercutio","Super League S7 EU Bottom Swiss","Chaos Chosen",38452,155.51,161.03,NA,"mercutio_uk",165.15,176.8,176.8,"England","24 (10/6/8)",54.17,501,"04 – EU Swiss"
+"17","DrClaes","Super League S7 EU Bottom Swiss","Snotling",29945,154.78,154.78,NA,"drclaes",157.76,161.91,161.91,"On a deserted island","22 (7/2/13)",36.36,501,"04 – EU Swiss"
+"18","JuicyBee","Super League S7 EU Bottom Swiss","Chaos Chosen",22788,154.11,194.59,NA,"JuicyBee",208.33,219.41,219.41,"Finland","192 (70/58/64)",51.56,501,"04 – EU Swiss"
+"19","Shriyke","Super League S7 EU Bottom Swiss","Dark Elf",30033,153.96,210.98,NA,"shriyke",230.84,245.26,245.26,"Scotland","197 (94/46/57)",59.39,501,"04 – EU Swiss"
+"20","DaProfezzur","Super League S7 EU Bottom Swiss","Chaos Chosen",28975,150.59,154.52,NA,"DaProfezzur",147.15,154.99,154.99,"Portugal","40 (13/11/16)",46.25,501,"04 – EU Swiss"
+"21","POCKUS","Super League S7 EU Bottom Swiss","Imperial Nobility",27500,150.21,150.21,NA,"Pockus",134.67,158.47,140.41,"Switzerland","35 (8/9/18)",35.71,501,"04 – EU Swiss"
+"22","Serpe","Super League S7 EU Bottom Swiss","Amazon",35864,150.05,156.01,NA,"serpe",161.48,169.2,161.48,"Italy","67 (22/10/35)",40.3,501,"04 – EU Swiss"
+"23","ForceFrenzy","Super League S7 EU Bottom Swiss","Chaos Chosen",35033,150.03,173.45,NA,"forcefrenzy",185.38,185.38,185.38,"Denmark","25 (11/7/7)",58,501,"04 – EU Swiss"
+"24","Tok_Janne","Super League S7 EU Bottom Swiss","Gnome",25744,146.86,192.12,NA,"tok_janne",201.15,232.32,232.32,"Sweden","149 (76/32/41)",61.74,501,"04 – EU Swiss"
+"25","MONGOR79","Super League S7 EU Bottom Swiss","Orc",25820,142.98,142.98,NA,"MONGOR",153.27,172.39,0,"Greece","50 (16/11/23)",43,501,"04 – EU Swiss"
+"26","BdG","Super League S7 EU Bottom Swiss","Skaven",16603,138.03,147,NA,"bdg",134.21,167.41,135.93,"Switzerland","140 (42/27/71)",39.64,501,"04 – EU Swiss"
+"27","nrKst","Super League S7 EU Bottom Swiss","Chaos Chosen",41269,134.75,134.75,NA,"nrKst",133.79,144.57,144.57,"Germany","16 (3/6/7)",37.5,501,"04 – EU Swiss"
+"28","razmus","Super League S7 EU Bottom Swiss","Imperial Nobility",24325,NA,154.15,NA,"razmus",157.46,161.83,161.67,"United States of America","29 (12/4/13)",48.28,501,"04 – EU Swiss"
+"29","Lort_paa_braettet","Super League S7 EU Bottom Swiss","Wood Elf",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,501,"04 – EU Swiss"
+"30","Thoriin","Super League S7 EU Bottom Swiss","Nurgle",40030,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,501,"04 – EU Swiss"
+"31","MerryZ","Super League S7 EU Bottom Swiss","Chaos Chosen",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,501,"04 – EU Swiss"
+"32","madvig","Super League S7 EU Bottom Swiss","Gnome",24222,NA,192.63,NA,"MadVig",263.34,263.34,263.34,"Denmark","240 (125/62/53)",65,501,"04 – EU Swiss"
+"33","baronvdw","Super League S7 EU Bottom Swiss","Dwarf",27703,NA,179.2,NA,"Baronvdw",222.9,254.41,254.41,"Malta","144 (78/34/32)",65.97,501,"04 – EU Swiss"
+"34","Padster61","Super League S7 EU Bottom Swiss","Imperial Nobility",26810,NA,173,NA,"Padster",166.27,192.56,184.7,"North Ireland","409 (129/128/152)",47.19,501,"04 – EU Swiss"
+"35","Mushkun","Super League S7 EU Bottom Swiss","Norse",29829,NA,162.26,NA,"Snows",151.03,151.51,151.03,"Portugal","29 (9/6/14)",41.38,501,"04 – EU Swiss"
+"36","OwenZ51","Super League S7 EU Bottom Swiss","Black Orc",36383,NA,162.93,NA,"FauxOwen",148.59,148.59,0,"France","12 (5/0/7)",41.67,501,"04 – EU Swiss"
+"37","PilePoil","Super League S7 EU Bottom Swiss","Slann",33458,NA,167.22,NA,"pilepoil",142.95,187.71,187.71,"Switzerland","93 (27/23/43)",41.4,501,"04 – EU Swiss"
+"38","Ion","Super League S7 EU Bottom Swiss","Khorne",30099,NA,164.27,NA,"ion",172.56,199.88,199.88,"Malta","214 (70/69/75)",48.83,501,"04 – EU Swiss"
+"39","elodius","Super League S7 EU Bottom Swiss","Necromantic Horror",26080,NA,165.37,NA,"elodius",158.49,175.74,158.97,"Belgium","78 (29/17/32)",48.08,501,"04 – EU Swiss"
+"40","Widram","Super League S7 EU Bottom Swiss","Elven Union",26904,NA,167.79,NA,"Widram",124.48,195.84,131.13,"Wales","150 (46/36/68)",42.67,501,"04 – EU Swiss"
+"41","raiksnn","Super League S7 EU Bottom Swiss","Dark Elf",30774,NA,169.48,NA,"raiksnn",165.15,165.15,165.15,"Germany","38 (14/8/16)",47.37,501,"04 – EU Swiss"
+"42","CromFrance","Super League S7 EU Bottom Swiss","Skaven",13555,NA,174.76,NA,"CromFrance",155.18,194.46,185.8,"France","368 (123/98/147)",46.74,501,"04 – EU Swiss"
+"43","Fatzke","Super League S7 EU Bottom Swiss","Chaos Chosen",26463,NA,142.34,NA,"fatzke423",139.69,151.21,142.73,"Germany","39 (11/8/20)",38.46,501,"04 – EU Swiss"
+"44","SickAsEggs","Super League S7 EU Bottom Swiss","Elven Union",29300,NA,189.93,NA,"SickasEggs",229.48,245.82,245.82,"England","210 (97/57/56)",59.76,501,"04 – EU Swiss"
+"45","Megamind","Super League S7 EU Bottom Swiss","Elven Union",23794,NA,196.16,NA,"Megamind",229.51,237.74,233,"United States of America","96 (60/20/16)",72.92,501,"04 – EU Swiss"
+"46","galentio","Super League S7 EU Bottom Swiss","Shambling Undead",40754,NA,178.51,NA,"galentio",180.38,181.93,181.93,"Portugal","23 (13/6/4)",69.57,501,"04 – EU Swiss"
+"47","Ulrik","Super League S7 EU Bottom Swiss","Dwarf",10155,NA,206.44,NA,"Ulrik",234.04,250.52,250.52,"Denmark","111 (50/27/34)",57.21,501,"04 – EU Swiss"
+"48","Chicken23","Super League S7 EU Bottom Swiss","Imperial Nobility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,501,"04 – EU Swiss"
+"49","straume","Super League S7 EU Championship A","Wood Elf",20685,247.22,247.22,NA,"Straume",256.62,299.09,293.48,"Norway","446 (241/135/70)",69.17,101,"00 – EU Championship"
+"50","siggi","Super League S7 EU Championship A","Amazon",25971,211.7,251.1,NA,"siggi",241.76,302.12,268.38,"Switzerland","480 (290/98/92)",70.63,101,"00 – EU Championship"
+"51","Thot","Super League S7 EU Championship A","Skaven",19526,166.89,209.57,NA,"Thot",245.79,267.98,253.28,"France","479 (270/101/108)",66.91,101,"00 – EU Championship"
+"52","Budmilka","Super League S7 EU Championship A","Gnome",20320,162.68,211.82,NA,"Budmilka",221.13,242.23,225.29,"France","604 (255/157/192)",55.22,101,"00 – EU Championship"
+"53","doclystria","Super League S7 EU Championship A","Old World Alliance",2808,NA,233.18,NA,"Miko",248.09,286.2,278.99,"Germany","395 (219/89/87)",66.71,101,"00 – EU Championship"
+"54","JLeav","Super League S7 EU Championship A","High Elf",33751,NA,222.56,NA,"jleav",280.02,290.72,290.72,"United States of America","186 (132/33/21)",79.84,101,"00 – EU Championship"
+"55","happygrue","Super League S7 EU Championship A","Imperial Nobility",16876,NA,199.4,NA,"happygrue",210.36,211.43,210.36,"United States of America","21 (15/4/2)",80.95,101,"00 – EU Championship"
+"56","KFoged","Super League S7 EU Championship A","Imperial Nobility",10691,NA,278.05,NA,"KFoged",258.75,291.02,277.64,"England","788 (471/162/155)",70.05,101,"00 – EU Championship"
+"57","Beltroniko","Super League S7 EU Championship B","Wood Elf",36563,205.31,205.31,NA,"Beltroniko",238.06,240.08,240.08,"Portugal","72 (47/12/13)",73.61,102,"00 – EU Championship"
+"58","Bazakastine","Super League S7 EU Championship B","Imperial Nobility",29474,198.3,198.3,NA,"bazakastine",254.13,273.4,257.69,"United States of America","106 (71/20/15)",76.42,102,"00 – EU Championship"
+"59","Junior84","Super League S7 EU Championship B","Vampire",20857,195.79,259.21,NA,"Junior84",271.53,288.62,285.11,"Germany","492 (270/137/85)",68.8,102,"00 – EU Championship"
+"60","Tuga","Super League S7 EU Championship B","Orc",24918,193.28,205.64,NA,"MarcosGrande",230,239.55,239.55,"Portugal","88 (40/26/22)",60.23,102,"00 – EU Championship"
+"61","Davouille","Super League S7 EU Championship B","Black Orc",21118,182.88,205.45,NA,"Davouille",221.97,252.72,240.12,"France","359 (180/93/86)",63.09,102,"00 – EU Championship"
+"62","Grumplekins","Super League S7 EU Championship B","Human",26358,162.33,210.9,NA,"grumplekins",203.39,240.63,219.61,"Sweden","284 (117/85/82)",56.16,102,"00 – EU Championship"
+"63","MacHurto","Super League S7 EU Championship B","Chaos Chosen",24314,NA,196.32,NA,"machurto",202.94,243.94,243.94,"Denmark","144 (67/40/37)",60.42,102,"00 – EU Championship"
+"64","Lewdgrip","Super League S7 EU Div 1A","Chaos Renegade",21163,190.51,199.6,NA,"lewdgrip",214.78,228.81,219.86,"Austria","122 (64/21/37)",61.07,201,"01 – EU Div 1"
+"65","Dodge22","Super League S7 EU Div 1A","Necromantic Horror",32391,189.15,189.15,NA,"dodge22",222.6,223.68,223.68,"England","206 (96/52/58)",59.22,201,"01 – EU Div 1"
+"66","Farandole","Super League S7 EU Div 1A","Wood Elf",33363,162.56,206.59,NA,"half",223.47,237.88,237.88,"France","80 (46/14/20)",66.25,201,"01 – EU Div 1"
+"67","Hugo21_","Super League S7 EU Div 1A","Snotling",33563,155.16,165.54,NA,"Hugo21",186.33,202.37,202.37,"France","72 (28/19/25)",52.08,201,"01 – EU Div 1"
+"68","Edwin","Super League S7 EU Div 1A","Amazon",25301,NA,199.99,NA,"Edwin",209.69,252.96,239.23,"Netherlands","296 (141/69/86)",59.29,201,"01 – EU Div 1"
+"69","goldengate","Super League S7 EU Div 1A","Khorne",23406,NA,178.18,NA,"Goldengate",220.68,220.68,0,"Ireland","108 (50/36/22)",62.96,201,"01 – EU Div 1"
+"70","Tonalt","Super League S7 EU Div 1A","Chaos Chosen",7503,NA,236.6,NA,"Tonalt",255.07,258.98,255.07,"Finland","228 (113/74/41)",65.79,201,"01 – EU Div 1"
+"71","jonno","Super League S7 EU Div 1A","Elven Union",20251,NA,195.64,NA,"Jonno",219.4,229.5,229.5,"Denmark","247 (90/68/89)",50.2,201,"01 – EU Div 1"
+"72","Sandune","Super League S7 EU Div 1B","Wood Elf",15142,200.33,220.46,NA,"Sandune",257.19,275,261.63,"New Zealand","274 (161/67/46)",70.99,202,"01 – EU Div 1"
+"73","Endrophil","Super League S7 EU Div 1B","Goblin",19682,174.06,196,NA,"Endro",221.29,237.82,0,"Germany","180 (90/36/54)",60,202,"01 – EU Div 1"
+"74","helborg","Super League S7 EU Div 1B","Wood Elf",22470,168.44,259.36,NA,"Helborg",260.15,319.22,275.74,"France","513 (285/127/101)",67.93,202,"01 – EU Div 1"
+"75","silkoun","Super League S7 EU Div 1B","Skaven",14616,157.21,222.68,NA,"silkoun",237.49,283.03,256.87,"France","395 (209/103/83)",65.95,202,"01 – EU Div 1"
+"76","rodvil","Super League S7 EU Div 1B","Underworld Denizens",24496,156.9,176.88,NA,"rodvil",185.98,205.86,198.06,"Portugal","151 (56/43/52)",51.32,202,"01 – EU Div 1"
+"77","outcaarst","Super League S7 EU Div 1B","High Elf",15546,144.69,190.64,NA,"outcaarst",186.51,213.16,209.12,"Austria","196 (85/41/70)",53.83,202,"01 – EU Div 1"
+"78","cdassak","Super League S7 EU Div 1B","Elven Union",26050,NA,205.78,NA,"cdassak",237.85,245.64,238.05,"Greece","94 (57/26/11)",74.47,202,"01 – EU Div 1"
+"79","Martoni","Super League S7 EU Div 1B","Chaos Renegade",6999,NA,204.2,NA,"Martoni",188.65,224.11,0,"France","223 (105/55/63)",59.42,202,"01 – EU Div 1"
+"80","geggster","Super League S7 EU Div 1C","Dwarf",70,223.8,240.69,NA,"Geggster",274.63,283.6,283.6,"England","1172 (646/280/246)",67.06,203,"01 – EU Div 1"
+"81","Rubick","Super League S7 EU Div 1C","Wood Elf",17243,210.41,210.41,NA,"Rubick",220.02,245.71,245.71,"Wales","531 (256/128/147)",60.26,203,"01 – EU Div 1"
+"82","Bojo","Super League S7 EU Div 1C","Human",7539,208.56,219.07,NA,"Lord_Bojo",217.33,248.42,222.53,"Guadeloupe","707 (321/188/198)",58.7,203,"01 – EU Div 1"
+"83","speedingbullet","Super League S7 EU Div 1C","Underworld Denizens",16845,204.06,206.38,NA,"speedingbullet",216.59,246.45,228.18,"England","264 (135/62/67)",62.88,203,"01 – EU Div 1"
+"84","Bashto","Super League S7 EU Div 1C","Wood Elf",32021,197.05,229.91,NA,"Bashto",260.96,271.88,271.88,"England","171 (88/43/40)",64.04,203,"01 – EU Div 1"
+"85","Jblackmane","Super League S7 EU Div 1C","Khorne",31370,164.52,174.03,NA,"jblackmane",156.8,203.64,201.37,"Netherlands","103 (40/25/38)",50.97,203,"01 – EU Div 1"
+"86","Stimme","Super League S7 EU Div 1C","Chaos Renegade",17245,159.43,247.33,NA,"Stimme",254.05,285.31,285.31,"Germany","794 (451/194/149)",69.02,203,"01 – EU Div 1"
+"87","SideshowBob","Super League S7 EU Div 1C","Imperial Nobility",30799,NA,168.54,NA,"sideshowbob",170.96,174.83,174.83,"Sweden","6 (3/2/1)",66.67,203,"01 – EU Div 1"
+"88","Valen","Super League S7 EU Div 1D","Dwarf",1538,202.18,207.31,NA,"Valen",228.05,257.73,257.73,"Scotland","650 (337/118/195)",60.92,204,"01 – EU Div 1"
+"89","vradipous","Super League S7 EU Div 1D","Skaven",28432,181.72,181.72,NA,"Vradipous",202.59,230.26,0,"Greece","84 (40/21/23)",60.12,204,"01 – EU Div 1"
+"90","uncertain","Super League S7 EU Div 1D","Elven Union",13715,NA,204.21,NA,"Narok",223.52,239.67,236.75,"Germany","280 (130/69/81)",58.75,204,"01 – EU Div 1"
+"91","Nime_l_Ancien","Super League S7 EU Div 1D","Wood Elf",17768,NA,212.75,NA,"Nîme_l_Ancien",246.05,256.05,250.32,"France","205 (97/51/57)",59.76,204,"01 – EU Div 1"
+"92","Zelmor","Super League S7 EU Div 1D","Amazon",35956,NA,148.07,NA,"Zelmor",149.08,154.67,0,"Netherlands","18 (6/5/7)",47.22,204,"01 – EU Div 1"
+"93","prodigal_son","Super League S7 EU Div 1D","Chaos Chosen",27369,NA,215.72,NA,"prodigal_son",236.77,242.52,242.52,"Finland","96 (43/32/21)",61.46,204,"01 – EU Div 1"
+"94","Hovring","Super League S7 EU Div 1D","Chaos Chosen",34738,NA,254.04,NA,"hovring",285.19,297,297,"Denmark","92 (56/27/9)",75.54,204,"01 – EU Div 1"
+"95","Siogun","Super League S7 EU Div 1D","Shambling Undead",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,204,"01 – EU Div 1"
+"96","Oventa","Super League S7 EU Div 2A","Dwarf",9610,212.14,212.14,NA,"Oventa",251.58,258.17,258.17,"Germany","435 (222/105/108)",63.1,301,"02 – EU Div 2"
+"97","Undress_","Super League S7 EU Div 2A","Slann",29927,204.48,204.48,NA,"undress_",233.16,252.56,252.56,"On a deserted island","167 (89/42/36)",65.87,301,"02 – EU Div 2"
+"98","Sokratez","Super League S7 EU Div 2A","Nurgle",11501,203.33,230.8,NA,"Tank",244.43,286.89,261.19,"Denmark","502 (261/141/100)",66.04,301,"02 – EU Div 2"
+"99","Gallo","Super League S7 EU Div 2A","High Elf",20999,192.26,198.25,NA,"Gallo",228.71,252.63,252.63,"Italy","368 (137/113/118)",52.58,301,"02 – EU Div 2"
+"100","kosmo","Super League S7 EU Div 2A","Skaven",39313,186.04,186.04,NA,"Kosmo",205.29,205.29,205.29,"Switzerland","51 (19/15/17)",51.96,301,"02 – EU Div 2"
+"101","HenningEksteen","Super League S7 EU Div 2A","Necromantic Horror",33351,172.02,200.65,NA,"henningeksteen",244.8,254.14,254.14,"Netherlands","150 (75/40/35)",63.33,301,"02 – EU Div 2"
+"102","naytsyrhc","Super League S7 EU Div 2A","Vampire",27808,155.26,188.6,NA,"naytsyrhc",203.89,203.89,203.89,"Germany","106 (46/21/39)",53.3,301,"02 – EU Div 2"
+"103","Solaris","Super League S7 EU Div 2A","Elven Union",22731,NA,174.62,NA,"Solaris_7",206.23,211.81,211.81,"Germany","45 (21/15/9)",63.33,301,"02 – EU Div 2"
+"104","MontelGee","Super League S7 EU Div 2B","Necromantic Horror",35493,171.85,179.22,NA,"montelleke",202.32,212.41,212.41,"Belgium","55 (29/13/13)",64.55,302,"02 – EU Div 2"
+"105","LemonheadWallenstein","Super League S7 EU Div 2B","Norse",22662,168.53,170.29,NA,"Lemonhead_Wallenstein",180.59,200.71,183.69,"Tonga","119 (44/34/41)",51.26,302,"02 – EU Div 2"
+"106","Jelmer","Super League S7 EU Div 2B","Human",129,160.37,216.09,NA,"jelmer",212.07,261.05,216.21,"Netherlands","779 (370/171/238)",58.47,302,"02 – EU Div 2"
+"107","il-Fieres","Super League S7 EU Div 2B","Chaos Dwarf",26579,152.79,156.53,NA,"Fieres",178.2,207.88,207.88,"Malta","238 (82/81/75)",51.47,302,"02 – EU Div 2"
+"108","FL0","Super League S7 EU Div 2B","Khorne",30447,145.35,145.35,NA,"FL0",156.3,163.32,163.32,"France","94 (26/24/44)",40.43,302,"02 – EU Div 2"
+"109","paperbag4","Super League S7 EU Div 2B","Orc",17898,NA,167.34,NA,"paperbag4",191.67,200.25,198.38,"United States of America","69 (31/8/30)",50.72,302,"02 – EU Div 2"
+"110","WiIfred","Super League S7 EU Div 2B","Imperial Nobility",29172,NA,187.01,NA,"Bjarke",209.39,224.46,221.13,"Denmark","91 (44/23/24)",60.99,302,"02 – EU Div 2"
+"111","Dynamix","Super League S7 EU Div 2B","Dark Elf",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,302,"02 – EU Div 2"
+"112","tyler_swaft","Super League S7 EU Div 2C","Amazon",33323,218.42,218.42,NA,"Tyler_swaft",219.58,234.26,233.97,"England","117 (57/32/28)",62.39,303,"02 – EU Div 2"
+"113","Leonek","Super League S7 EU Div 2C","Amazon",22375,208.63,208.63,NA,"Leonek",217.41,272.05,262.79,"Poland","253 (136/56/61)",64.82,303,"02 – EU Div 2"
+"114","Arioso","Super League S7 EU Div 2C","Norse",18378,199.81,218.64,NA,"arioso",250.57,279.17,252.88,"Germany","864 (426/229/209)",62.56,303,"02 – EU Div 2"
+"115","Mind_Locker","Super League S7 EU Div 2C","Human",29192,NA,194.52,NA,"Mind_Locker",211.47,214.78,214.78,"Greece","85 (36/28/21)",58.82,303,"02 – EU Div 2"
+"116","Rib-Goaty","Super League S7 EU Div 2C","High Elf",40225,NA,160.39,NA,"Rib-Goaty",166.95,167.01,167.01,"Portugal","18 (9/3/6)",58.33,303,"02 – EU Div 2"
+"117","Xialth","Super League S7 EU Div 2C","Necromantic Horror",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,303,"02 – EU Div 2"
+"118","LexusD","Super League S7 EU Div 2C","Chaos Chosen",30736,NA,153.07,NA,"LexusD",138.61,156.15,142.24,"Germany","63 (18/17/28)",42.06,303,"02 – EU Div 2"
+"119","MurkyWater","Super League S7 EU Div 2C","Gnome",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,303,"02 – EU Div 2"
+"120","gumbi","Super League S7 EU Div 2D","Wood Elf",9259,191.55,192.45,NA,"gumbi",175.95,231.92,221.74,"Australia","188 (77/48/63)",53.72,304,"02 – EU Div 2"
+"121","spoboyle","Super League S7 EU Div 2D","Amazon",22121,186.46,186.46,NA,"spob",211.24,220.68,220.68,"England","180 (74/43/63)",53.06,304,"02 – EU Div 2"
+"122","dragonborn","Super League S7 EU Div 2D","Amazon",22580,183.36,183.36,NA,"dragonborn",220.45,224.62,221.3,"England","118 (50/33/35)",56.36,304,"02 – EU Div 2"
+"123","Schwifty","Super League S7 EU Div 2D","Black Orc",2714,152.79,196.24,NA,"Schwifty",230.89,254.6,243.17,"Netherlands","716 (312/140/264)",53.35,304,"02 – EU Div 2"
+"124","rayhell","Super League S7 EU Div 2D","Chaos Renegade",30281,NA,213.6,NA,"rayhell",248.22,256,256,"Poland","191 (99/45/47)",63.61,304,"02 – EU Div 2"
+"125","PurpleChest","Super League S7 EU Div 2D","Wood Elf",24645,NA,216.66,NA,"PurpleChest",254.61,284.19,277.99,"England","224 (130/60/34)",71.43,304,"02 – EU Div 2"
+"126","Oren","Super League S7 EU Div 2D","Human",26068,NA,191.75,NA,"Oren",216.99,240.97,240.15,"Poland","254 (108/60/86)",54.33,304,"02 – EU Div 2"
+"127","Rhag","Super League S7 EU Div 2D","Khorne",34689,NA,180.8,NA,"Rhag",191.63,191.63,191.63,"Finland","73 (26/22/25)",50.68,304,"02 – EU Div 2"
+"128","GreenskinPhil","Super League S7 EU Div 2E","High Elf",31674,193.39,197.52,NA,"greenskinphil",218.03,252.55,252.55,"England","353 (157/107/89)",59.63,401,"02 – EU Div 2"
+"129","Raztout","Super League S7 EU Div 2E","Dark Elf",16824,188.64,239.05,NA,"Raztout",235.05,289.64,250.27,"France","437 (208/124/105)",61.78,401,"02 – EU Div 2"
+"130","2GUTTA","Super League S7 EU Div 2E","Tomb Kings",24787,185.3,185.3,NA,"2GUTTA",200.72,200.72,200.72,"Poland","60 (26/17/17)",57.5,401,"02 – EU Div 2"
+"131","brinu","Super League S7 EU Div 2E","Shambling Undead",30476,171.27,184.08,NA,"Brinu",186.83,221.68,221.68,"Malta","115 (47/29/39)",53.48,401,"02 – EU Div 2"
+"132","thulean","Super League S7 EU Div 2E","Imperial Nobility",28239,NA,221.55,NA,"thulean",255.24,292.25,292.25,"England","274 (156/51/67)",66.24,401,"02 – EU Div 2"
+"133","ClayInfinity","Super League S7 EU Div 2E","Imperial Nobility",8442,NA,197.94,NA,"ClayInfinity",195.89,241.2,203.7,"Australia","207 (101/48/58)",60.39,401,"02 – EU Div 2"
+"134","Hal976","Super League S7 EU Div 2E","Human",33257,NA,147.61,NA,"hal976",130.41,146.6,0,"Italy","12 (0/5/7)",20.83,401,"02 – EU Div 2"
+"135","cyg-Obsidian","Super League S7 EU Div 2E","Elven Union",21201,NA,230.37,NA,"obsidian",222.72,279,257.84,"France","442 (220/113/109)",62.56,401,"02 – EU Div 2"
+"136","Rone13169","Super League S7 EU Div 2F","Amazon",24110,204.46,204.46,NA,"rone",236.17,247.44,238.84,"Malta","287 (139/61/87)",59.06,402,"02 – EU Div 2"
+"137","fienoss","Super League S7 EU Div 2F","Dark Elf",29892,169.86,169.86,NA,"fienoss",182.02,209.77,182.5,"Greece","96 (34/37/25)",54.69,402,"02 – EU Div 2"
+"138","Shockpulsar","Super League S7 EU Div 2F","Skaven",31447,166.68,205.34,NA,"PedroR",246.98,260.77,260.77,"Portugal","110 (60/27/23)",66.82,402,"02 – EU Div 2"
+"139","cymob","Super League S7 EU Div 2F","Amazon",29533,157.22,205.74,NA,"cymob",246.57,254.97,253.1,"Norway","108 (53/25/30)",60.65,402,"02 – EU Div 2"
+"140","pedro_fgomes","Super League S7 EU Div 2F","Tomb Kings",26033,149.37,179.16,NA,"karnuss",178.41,205.99,179,"Portugal","157 (66/39/52)",54.46,402,"02 – EU Div 2"
+"141","bamfuzi","Super League S7 EU Div 2F","Gnome",29314,141.34,151.76,NA,"bamfuzi",127.42,144.29,133.48,"Austria","22 (4/4/14)",27.27,402,"02 – EU Div 2"
+"142","Piogele","Super League S7 EU Div 2F","Vampire",27730,NA,181.95,NA,"piogele",189.03,227.77,195.24,"Switzerland","75 (34/12/29)",53.33,402,"02 – EU Div 2"
+"143","deurbroucq","Super League S7 EU Div 2F","Orc",33209,NA,153.64,NA,"deurbroucq",167.1,172.19,167.1,"United States of America","29 (11/9/9)",53.45,402,"02 – EU Div 2"
+"144","jd2rbnds","Super League S7 EU Div 2G","Chaos Chosen",32817,208.88,208.88,NA,"Rupert",235.18,237.47,237.47,"Poland","144 (66/41/37)",60.07,403,"02 – EU Div 2"
+"145","chaoskopp","Super League S7 EU Div 2G","Vampire",31217,148.11,150.21,NA,"chaoskopp",145.89,159.63,152.67,"Germany","48 (15/9/24)",40.63,403,"02 – EU Div 2"
+"146","Coewolf","Super League S7 EU Div 2G","Chaos Renegade",23332,NA,183.81,NA,"coewolf",171.76,221.54,181.72,"Czech Republic","237 (87/59/91)",49.16,403,"02 – EU Div 2"
+"147","Waschik","Super League S7 EU Div 2G","Imperial Nobility",31728,NA,176.2,NA,"Waschik",186.9,197.5,197.5,"Czech Republic","131 (54/28/49)",51.91,403,"02 – EU Div 2"
+"148","Maveho","Super League S7 EU Div 2G","Chaos Chosen",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,403,"02 – EU Div 2"
+"149","DoctorMidnight","Super League S7 EU Div 2G","Amazon",40547,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,403,"02 – EU Div 2"
+"150","Jopotzuki","Super League S7 EU Div 2G","Imperial Nobility",20783,NA,180.55,NA,"jopotzuki",182.49,214.97,211.94,"Finland","358 (140/89/129)",51.54,403,"02 – EU Div 2"
+"151","Ironbreaker","Super League S7 EU Div 2G","Elven Union",25312,NA,199.03,NA,"ironbreaker",190.53,226.09,205.09,"Portugal","169 (82/39/48)",60.06,403,"02 – EU Div 2"
+"152","Candlejack","Super League S7 EU Div 2H","Skaven",5844,209.03,215.21,NA,"Candlejack",236.52,275.31,245.15,"Germany","835 (441/152/242)",61.92,404,"02 – EU Div 2"
+"153","Topas","Super League S7 EU Div 2H","Wood Elf",22100,205.71,205.71,NA,"topas",221.11,229.76,221.11,"Germany","286 (132/76/78)",59.44,404,"02 – EU Div 2"
+"154","Hiliadan","Super League S7 EU Div 2H","Dark Elf",29218,166.85,166.85,NA,"Hiliadan",184.25,189.11,189.11,"France","29 (11/8/10)",51.72,404,"02 – EU Div 2"
+"155","Akorus","Super League S7 EU Div 2H","Khorne",29907,164.57,164.57,NA,"akorus",177.63,182.96,182.96,"Germany","54 (20/15/19)",50.93,404,"02 – EU Div 2"
+"156","Juiblex","Super League S7 EU Div 2H","Amazon",25515,145.33,165.9,NA,"juiblex",155.63,179.46,179.46,"Sweden","209 (63/51/95)",42.34,404,"02 – EU Div 2"
+"157","Rijssiej","Super League S7 EU Div 2H","Imperial Nobility",11330,NA,185.46,NA,NA,NA,NA,NA,NA,NA,NA,404,"02 – EU Div 2"
+"158","BBWill","Super League S7 EU Div 2H","Chaos Chosen",31685,NA,169.35,NA,"BBWill",152,175.34,175.34,"England","51 (13/17/21)",42.16,404,"02 – EU Div 2"
+"159","joeseph","Super League S7 EU Div 2H","Wood Elf",38195,NA,220.11,NA,"joeseph",282.68,285.68,285.68,"Wales","148 (80/44/24)",68.92,404,"02 – EU Div 2"
+"160","Hiliadan","Super League S7 EU Div 2H","Dark Elf",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,404,"02 – EU Div 2"
+"161","Strider84","Super League S7 EU Premier League","Wood Elf",14113,258.36,258.36,NA,"strider84",260.02,268.14,261.25,"Switzerland","273 (150/63/60)",66.48,1,"0- EU Premier League"
+"162","Jokaero","Super League S7 EU Premier League","Dwarf",2785,257.49,257.49,NA,"Jokaero",294.7,313.05,302.78,"Switzerland","654 (384/155/115)",70.57,1,"0- EU Premier League"
+"163","Purplegoo","Super League S7 EU Premier League","Skaven",11777,247.54,272.75,NA,"Purplegoo",280.46,292.06,280.46,"England","1110 (637/276/197)",69.82,1,"0- EU Premier League"
+"164","Baki","Super League S7 EU Premier League","Vampire",19064,237.9,237.9,NA,"Baki",273.14,279.69,279.69,"Germany","291 (162/70/59)",67.7,1,"0- EU Premier League"
+"165","fabienL","Super League S7 EU Premier League","Wood Elf",33562,175.54,185.08,NA,"FabienL",224.15,254.63,254.63,"France","69 (41/15/13)",70.29,1,"0- EU Premier League"
+"166","JB","Super League S7 EU Premier League","Human",28280,163.42,216.04,NA,"jb",246.77,270.63,261.79,"Ladonia","161 (90/41/30)",68.63,1,"0- EU Premier League"
+"167","LargoFL","Super League S7 EU Premier League","Skaven",28291,NA,208.28,NA,"LargoFL",212.18,246.33,221.2,"Germany","127 (64/31/32)",62.6,1,"0- EU Premier League"
+"168","Tripleskull","Super League S7 EU Premier League","Imperial Nobility",9524,NA,220.04,NA,"Tripleskull",275.8,275.8,275.8,"Denmark","446 (249/110/87)",68.16,1,"0- EU Premier League"
+"169","DarkOrk20","Super League S7 NA Bottom Swiss","Khorne",7593,170.57,183.17,NA,"DarkOrk20",176.31,221.17,217.66,"United States of America","580 (266/102/212)",54.66,NA,NA
+"170","spinball","Super League S7 NA Bottom Swiss","Khorne",4789,158.22,229.4,NA,"frozenflame",298.13,308.96,308.96,"United States of America","214 (143/41/30)",76.4,NA,NA
+"171","whigwam","Super League S7 NA Bottom Swiss","Norse",19291,155.08,223.46,NA,"whigwam",251.97,268.54,253.98,"United States of America","221 (133/38/50)",68.78,NA,NA
+"172","Sammy_the_murderer","Super League S7 NA Bottom Swiss","Dwarf",32047,NA,189.26,NA,"Sammy_The_Murderer",199.71,199.71,0,"United States of America","27 (16/5/6)",68.52,NA,NA
+"173","ThatGuyYouAre","Super League S7 NA Bottom Swiss","Norse",31249,NA,166.15,NA,"zadrian",126.75,176.6,148.33,"United States of America","72 (22/21/29)",45.14,NA,NA
+"174","Akindsir","Super League S7 NA Bottom Swiss","Black Orc",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"175","Drrek","Super League S7 NA Bottom Swiss","Imperial Nobility",39914,NA,166.65,NA,"drrek",171.22,171.22,171.22,"On a deserted island","6 (4/1/1)",75,NA,NA
+"176","T0mBSt0ne","Super League S7 NA Bottom Swiss","Elven Union",36375,NA,164.32,NA,"tombstone33",147.65,171.16,171.16,"United States of America","48 (19/10/19)",50,NA,NA
+"177","silkoun","Super League S7 NA Championship A","Skaven",14616,157.21,222.68,NA,"silkoun",237.49,283.03,256.87,"France","395 (209/103/83)",65.95,1101,"NA 01 – Championship"
+"178","Grasshopper","Super League S7 NA Championship A","Human",2344,149.32,149.6,NA,"Grasshopper",98.76,150,122.03,"United States of America","89 (18/20/51)",31.46,1101,"NA 01 – Championship"
+"179","Ranzimus","Super League S7 NA Championship A","Khorne",24874,143.48,161.92,NA,"Ranzimus",169.4,174.9,174.9,"United States of America","110 (34/34/42)",46.36,1101,"NA 01 – Championship"
+"180","TheRedoubt","Super League S7 NA Championship A","Imperial Nobility",37895,NA,169.01,NA,"theredoubt",182.84,191.55,191.55,"On a deserted island","24 (14/3/7)",64.58,1101,"NA 01 – Championship"
+"181","ajaxtheriot","Super League S7 NA Championship A","Snotling",39059,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1101,"NA 01 – Championship"
+"182","FaMedKing","Super League S7 NA Championship A","Shambling Undead",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1101,"NA 01 – Championship"
+"183","shiratokai","Super League S7 NA Championship A","Imperial Nobility",32539,NA,201.71,NA,"shiratokai",243.44,259.22,259.22,"United States of America","105 (66/18/21)",71.43,1101,"NA 01 – Championship"
+"184","zootsuitjeff","Super League S7 NA Championship A","Old World Alliance",15338,NA,176.56,NA,"zootsuitjeff",208.19,223.6,208.19,"United States of America","308 (134/73/101)",55.36,1101,"NA 01 – Championship"
+"185","paulc899","Super League S7 NA Championship B","Dwarf",6654,179.82,179.82,NA,"Paul",168.36,187.56,175.95,"Canada","77 (38/13/26)",57.79,1102,"NA 01 – Championship"
+"186","Jogrenaught","Super League S7 NA Championship B","Khorne",22460,178.04,208.33,NA,"Jogrenaut",226.14,244.15,231.36,"United States of America","338 (179/79/80)",64.64,1102,"NA 01 – Championship"
+"187","Lonewolfjackson","Super League S7 NA Championship B","Norse",30536,170.04,203.71,NA,"lonewolfjackson",236.03,261.65,261.65,"United States of America","187 (115/39/33)",71.93,1102,"NA 01 – Championship"
+"188","Runbad","Super League S7 NA Championship B","High Elf",33324,167.4,226.96,NA,"runbad",248.05,265.75,265.75,"Canada","221 (117/49/55)",64.03,1102,"NA 01 – Championship"
+"189","Seamoose","Super League S7 NA Championship B","Old World Alliance",18753,167.05,168.29,NA,"seamoose",199.91,207.13,207.13,"United States of America","126 (56/27/43)",55.16,1102,"NA 01 – Championship"
+"190","jjtew","Super League S7 NA Championship B","Khorne",19719,157.46,183.47,NA,"jj2",245.72,245.72,245.72,"United States of America","243 (129/45/69)",62.35,1102,"NA 01 – Championship"
+"191","HouseBlackfyre","Super League S7 NA Championship B","Skaven",28534,144.08,186.11,NA,"houseblackfyre",219.86,231.26,222.74,"United States of America","379 (186/91/102)",61.08,1102,"NA 01 – Championship"
+"192","Dirtygit","Super League S7 NA Championship B","Elven Union",19152,NA,220.31,NA,"Bastich",225.67,262.16,232.31,"Canada","156 (90/38/28)",69.87,1102,"NA 01 – Championship"
+"193","Grither","Super League S7 NA Premier League","Nurgle",10904,208.61,253.71,NA,"Grither",271.45,301.3,271.54,"United States of America","703 (473/122/108)",75.96,1001,"NA 0 – Premier League"
+"194","warpstone","Super League S7 NA Premier League","Skaven",13205,203.89,235.8,NA,"Warpstone",241.74,276.46,254.58,"Canada","158 (97/36/25)",72.78,1001,"NA 0 – Premier League"
+"195","Xtreme","Super League S7 NA Premier League","Dwarf",1315,187.5,187.5,NA,"Xtreme",210.56,224.69,224.69,"United States of America","516 (248/117/151)",59.4,1001,"NA 0 – Premier League"
+"196","Xanzian","Super League S7 NA Premier League","Black Orc",6193,169.88,200.01,NA,"szrlm",211,225.34,225.34,"United States of America","484 (195/90/199)",49.59,1001,"NA 0 – Premier League"
+"197","paperbag4","Super League S7 NA Premier League","Wood Elf",17898,167.34,167.34,NA,"paperbag4",191.67,200.25,198.38,"United States of America","69 (31/8/30)",50.72,1001,"NA 0 – Premier League"
+"198","trefenwyd","Super League S7 NA Premier League","Chaos Chosen",25645,156.07,194.56,NA,"Trefenwyd",241.56,258.54,245.18,"United States of America","208 (127/49/32)",72.84,1001,"NA 0 – Premier League"
+"199","JLeav","Super League S7 NA Premier League","Tomb Kings",33751,NA,222.56,NA,"jleav",280.02,290.72,290.72,"United States of America","186 (132/33/21)",79.84,1001,"NA 0 – Premier League"
+"200","happygrue","Super League S7 NA Premier League","Imperial Nobility",16876,NA,199.4,NA,"happygrue",210.36,211.43,210.36,"United States of America","21 (15/4/2)",80.95,1001,"NA 0 – Premier League"
