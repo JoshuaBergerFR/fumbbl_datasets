@@ -14,21 +14,26 @@ params:
 ---
 
 ```{r preparation, include=FALSE}
+library(readODS)
+library(tidyverse)
+
 group_name <- params$group_name
 tournament_ruleset <- params$tournament_ruleset
 
 if(group_name == "EB25 training") {
   logo <- "EB25.jpg"
-  df_rosters <- read.csv(file = "../datasets/v0.7/df_rosters_eb2025.csv")
 } else if (group_name == "Super League S6") {
   logo <- "Super_League_-_logo.png"
-  df_rosters <- read.csv(file = "../datasets/v0.8/df_rosters_super_league_s6.csv")
 } else if (group_name == "Super League S7") {
   logo <- "Super_League_-_logo.png"
-  df_rosters <- read.csv(file = "../datasets/v0.8/df_rosters_super_league_s7.csv")
 }
 
-races <- unique(df_rosters$roster.name)
+
+# Get the races from the ruleset settings
+races <- read_ods("bb_tournament_settings.ods", sheet="gold-SPP-per-roster") %>% 
+  filter(Ruleset == tournament_ruleset)
+
+races <- races$Roster
 races <- sort(races)
 
 ```
