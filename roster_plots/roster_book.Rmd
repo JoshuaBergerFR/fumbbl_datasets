@@ -1,7 +1,7 @@
 ---
 title: "Roster book FUMBBL `r params$group_name`"
 author: "Hiliadan & Gertjan Verhoeven"
-date: '2025-08-22'
+date: '2025-10-08'
 output:
   pdf_document:
     latex_engine: xelatex
@@ -12,24 +12,30 @@ params:
   group_name: "Super League S6"
   tournament_ruleset: "EB25"
 ---
-```{r logo, echo = FALSE, fig.align="center" ,  out.width = "150%"}
-
-knitr::include_graphics("EB25.jpg")
-```
 
 ```{r preparation, include=FALSE}
 group_name <- params$group_name
 tournament_ruleset <- params$tournament_ruleset
 
 if(group_name == "EB25 training") {
+  logo <- "EB25.jpg"
   df_rosters <- read.csv(file = "../datasets/v0.7/df_rosters_eb2025.csv")
 } else if (group_name == "Super League S6") {
+  logo <- "Super_League_-_logo.webp"
   df_rosters <- read.csv(file = "../datasets/v0.8/df_rosters_super_league_s6.csv")
+} else if (group_name == "Super League S7") {
+  logo <- "Super_League_-_logo.webp"
+  df_rosters <- read.csv(file = "../datasets/v0.8/df_rosters_super_league_s7.csv")
 }
 
 races <- unique(df_rosters$roster.name)
 races <- sort(races)
 
+```
+
+```{r logo, echo = FALSE, fig.align="center" ,  out.width = "150%"}
+
+knitr::include_graphics(logo)
 ```
 
 ```{r display, echo=FALSE, results='asis'}
